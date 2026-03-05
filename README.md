@@ -1,7 +1,6 @@
 <!-- ========================================== -->
 <!-- 🔥 SAHIL GUPTA — GitHub Profile README 🔥 -->
 <!-- ========================================== -->
-
 <div align="center">
 
 <!-- Animated Header Wave -->
