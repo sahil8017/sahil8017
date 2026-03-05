@@ -9,12 +9,12 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/sahil8017">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%93%8A+Data+Analyst+%7C+%F0%9F%A4%96+AI%2FML+Engineer;%E2%9A%A1+Backend+Architect+%7C+%F0%9F%94%90+Cybersecurity+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%93%8A+Data+Analyst+%7C+%F0%9F%A4%96+AI%2FML+Engineer;%E2%9A%A1+Backend+Architect+%7C+%F0%9F%8C%90+Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Profile Badges -->
 <img src="https://komarev.com/ghpvc/?username=sahil8017&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/sahil8017?tab=followers">
@@ -33,76 +33,23 @@
 <!--            ABOUT ME SECTION               -->
 <!-- ========================================== -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> &nbsp;About Me
+## 👋 &nbsp;About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<p>
+🎓 &nbsp;MCA student at <b>SRM University, Sonepat</b> (CGPA: 8.33) | BCA from <b>Kurukshetra University</b> (74%)
+</p>
 
-```yaml
-name: Sahil Gupta
-handle: "@sahil8017"
-location: Karnal, Haryana 🇮🇳
-email: sahilgupta4oct@gmail.com
+<p>
+An enthusiastic techie passionate about building practical, data-driven and AI-powered solutions. I work with <b>Python, SQL, FastAPI, and PostgreSQL</b>, and have hands-on experience in <b>data analysis, machine learning, computer vision,</b> and <b>backend development</b>. I enjoy designing systems that combine data processing, model integration, and clean API architecture.
+</p>
 
-education:
-  masters: "MCA @ SRM University, Sonepat (CGPA: 8.33)"
-  bachelors: "BCA @ Kurukshetra University (74%)"
-
-currently_building:
-  - "📊 Data-Driven Analytics Solutions"
-  - "🤖 AI-Powered Production Systems"
-  - "⚡ Scalable Backend Architectures"
-
-domains:
-  - Data Analytics & Visualization
-  - Machine Learning & Computer Vision
-  - Backend Engineering & System Design
-  - Cybersecurity & Threat Detection
-
-seeking: "Data Analyst | Data Scientist | AI/ML | Backend Dev"
-
-philosophy: >
-  "I don't just write code — I engineer systems
-   that think, defend, analyze, and scale."
-```
-
-<br clear="both"/>
-
-<!-- ========================================== -->
-<!--         WHAT I'M UP TO SECTION            -->
-<!-- ========================================== -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> &nbsp;What I'm Up To
-
-<table>
-<tr>
-<td>🔭 <b>Currently Working On</b></td>
-<td>AI-Powered Systems & Data Analytics Projects</td>
-</tr>
-<tr>
-<td>🎓 <b>Currently Pursuing</b></td>
-<td>MCA @ SRM University, Sonepat (2024 – 2026)</td>
-</tr>
-<tr>
-<td>🌱 <b>Currently Learning</b></td>
-<td>Advanced ML, Cloud Architecture & Generative AI</td>
-</tr>
-<tr>
-<td>🤝 <b>Open to Collaborate</b></td>
-<td>Data Science, AI/ML, & Backend Development projects</td>
-</tr>
-<tr>
-<td>💬 <b>Ask Me About</b></td>
-<td>Python, FastAPI, Data Analysis, ML, Computer Vision, System Design</td>
-</tr>
-<tr>
-<td>📫 <b>Reach Me At</b></td>
-<td><a href="mailto:sahilgupta4oct@gmail.com">sahilgupta4oct@gmail.com</a></td>
-</tr>
-<tr>
-<td>⚡ <b>Fun Fact</b></td>
-<td>I can debug production at 3 AM and still push clean code ☕</td>
-</tr>
-</table>
+- 🔭 &nbsp;Currently working on **AI-Powered Systems & Data Analytics Projects**
+- 🎓 &nbsp;Pursuing **MCA @ SRM University, Sonepat** (2024 – 2026)
+- 🌱 &nbsp;Learning **Advanced ML, Cloud Architecture & Generative AI**
+- 🤝 &nbsp;Open to collaborate on **Data Science, AI/ML & Backend projects**
+- 💬 &nbsp;Ask me about **Python, FastAPI, Data Analysis, ML, Computer Vision**
+- 📫 &nbsp;Reach me at **[sahilgupta4oct@gmail.com](mailto:sahilgupta4oct@gmail.com)**
+- ⚡ &nbsp;Fun fact: **I can debug production at 3 AM and still push clean code** ☕
 
 <br/>
 
@@ -110,41 +57,118 @@ philosophy: >
 <!--        🏆 FEATURED PROJECTS               -->
 <!-- ========================================== -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Spectra AI</h3>
+      <p align="center">
+        <a href="https://github.com/sahil8017/Spectra-AI" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <b>Multi-Modal AI Summarizer</b> — Full-stack app built with <b>React + Flask + Gemini API</b>. Summarizes YouTube videos & documents with interactive Q&A. Custom prompts for context-aware outputs.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ Attentiveness Tracker</h3>
+      <p align="center">
+        <a href="https://github.com/sahil8017/Attentiveness-Tracker" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <b>Production-grade AI monitoring platform</b> — Real-time webcam inference with <b>FastAPI + PostgreSQL + Roboflow</b>. JWT auth, temporal smoothing, session analytics dashboards. Dockerized deployment.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Psychological Firewall</h3>
+      <p align="center">
+        <a href="https://github.com/sahil8017/Psychological_Firewall_Project" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <b>AI-Powered Fraud Detection</b> — Sentinel-Clear system that uses <b>Google Gemini API</b> to detect social engineering & psychological manipulation in financial transactions. Auto-blocks threats & logs audit trails.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Transaction Buffer Engine</h3>
+      <p align="center">
+        <a href="https://github.com/sahil8017/Transaction_Buffer_Engine" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <b>Async Processing Architecture</b> — High-throughput transaction system using <b>FastAPI + RabbitMQ (CloudAMQP)</b>. Built to handle extreme traffic with message queuing & chaos testing capabilities.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/AMQP-00599C?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Crypto Audit Project</h3>
+      <p align="center">
+        <a href="https://github.com/sahil8017/Crypto_Audit_Project" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <b>Cryptocurrency Audit System</b> — Security-focused tool for auditing and analyzing cryptocurrency transactions and blockchain activity.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=hackerone&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 College Website</h3>
+      <p align="center">
+        <a href="https://github.com/sahil8017/Responsive_College_Web" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+      <p>
+        <b>Responsive College Website</b> — Redesigned an outdated college website with modern UI. Mobile-first responsive layout with HTML, CSS & JavaScript. Received positive faculty feedback.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-<!-- Row 1: Flagship Projects -->
-<a href="https://github.com/sahil8017/Spectra-AI">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Spectra-AI&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sahil8017/Attentiveness-Tracker">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Attentiveness-Tracker&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-
-<br/><br/>
-
-<!-- Row 2: Security & Backend -->
-<a href="https://github.com/sahil8017/Psychological_Firewall_Project">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Psychological_Firewall_Project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sahil8017/Transaction_Buffer_Engine">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Transaction_Buffer_Engine&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-
-<br/><br/>
-
-<!-- Row 3: More Projects -->
-<a href="https://github.com/sahil8017/Crypto_Audit_Project">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Crypto_Audit_Project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sahil8017/Sentinel_CLear_Core">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Sentinel_CLear_Core&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-
+  <a href="https://github.com/sahil8017?tab=repositories">
+    <img src="https://img.shields.io/badge/📁_View_All_Repositories-1f6feb?style=for-the-badge&labelColor=0d1117" alt="All Repos" />
+  </a>
 </div>
 
 <br/>
@@ -157,21 +181,22 @@ philosophy: >
 
 <table>
 <tr>
-<td><b>📊 Data Analytics — Quantium (Forage)</b></td>
-<td><code>Mar 2026</code></td>
+<td>📊 &nbsp;<b>Data Analytics — Quantium (Forage)</b></td>
+<td align="right"><code>Mar 2026</code></td>
 </tr>
 <tr>
 <td colspan="2">
-  Analyzed retail transaction data for customer segmentation & sales trends using Python. Conducted store trial analysis with statistical uplift measurement.
+Analyzed retail transaction data for customer segmentation & sales trends using Python. Conducted store trial analysis with statistical uplift measurement.
 </td>
 </tr>
+<tr><td colspan="2"></td></tr>
 <tr>
-<td><b>📈 Data Visualization — Tata Consultancy Services (Forage)</b></td>
-<td><code>Jan 2026</code></td>
+<td>📈 &nbsp;<b>Data Visualization — Tata Consultancy Services (Forage)</b></td>
+<td align="right"><code>Jan 2026</code></td>
 </tr>
 <tr>
 <td colspan="2">
-  Created data visualizations for retail revenue trends using Tableau/Power BI concepts. Prepared insights for client leadership meetings.
+Created data visualizations for retail revenue trends using Tableau/Power BI concepts. Prepared insights for client leadership meetings.
 </td>
 </tr>
 </table>
@@ -334,34 +359,14 @@ philosophy: >
 <br/>
 
 <!-- ========================================== -->
-<!--             QUOTE                          -->
-<!-- ========================================== -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
-</div>
-
-<br/>
-
-<!-- ========================================== -->
 <!--          SNAKE ANIMATION                   -->
 <!-- ========================================== -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil8017/sahil8017/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahil8017/sahil8017/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sahil8017/sahil8017/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/sahil8017/sahil8017/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
-
-<!-- ========================================== -->
-<!--       END OF README — Made with ❤️         -->
-<!-- ========================================== -->
