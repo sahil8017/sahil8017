@@ -302,31 +302,6 @@ Created data visualizations for retail revenue trends using Tableau/Power BI con
 
 <br/>
 
-<!-- ========================================== -->
-<!--           GITHUB STATS                     -->
-<!-- ========================================== -->
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/sahil8017">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil8017&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636" alt="GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/sahil8017">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil8017&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/sahil8017">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=sahil8017&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=238636&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br/>
 
 <!-- ========================================== -->
 <!--         CONTRIBUTION GRAPH                -->
