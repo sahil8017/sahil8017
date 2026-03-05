@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Sahil%20Gupta&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20—%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18&descColor=58a6ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Sahil%20Gupta&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%7C%20AI%20%7C%20Backend%20—%20Building%20What%20Matters&descAlignY=55&descSize=18&descColor=58a6ff" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/sahil8017">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Cybersecurity+Enthusiast+%7C+%F0%9F%A4%96+AI%2FML+Builder;%E2%9A%A1+Backend+Architect+%7C+%F0%9F%8C%90+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%93%8A+Data+Analyst+%7C+%F0%9F%A4%96+AI%2FML+Engineer;%E2%9A%A1+Backend+Architect+%7C+%F0%9F%94%90+Cybersecurity+Builder" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,24 +40,29 @@
 ```yaml
 name: Sahil Gupta
 handle: "@sahil8017"
-location: India 🇮🇳
-education: Computer Science Student
+location: Karnal, Haryana 🇮🇳
 email: sahilgupta4oct@gmail.com
 
-currently_building:
-  - "🛡️ AI-Powered Cybersecurity Systems"
-  - "⚡ High-Performance Backend Architectures"
-  - "🤖 Intelligent AI Applications"
+education:
+  masters: "MCA @ SRM University, Sonepat (CGPA: 8.33)"
+  bachelors: "BCA @ Kurukshetra University (74%)"
 
-passions:
+currently_building:
+  - "📊 Data-Driven Analytics Solutions"
+  - "🤖 AI-Powered Production Systems"
+  - "⚡ Scalable Backend Architectures"
+
+domains:
+  - Data Analytics & Visualization
+  - Machine Learning & Computer Vision
+  - Backend Engineering & System Design
   - Cybersecurity & Threat Detection
-  - Distributed Systems & Message Queues
-  - Artificial Intelligence & Machine Learning
-  - Full-Stack Web Development
+
+seeking: "Data Analyst | Data Scientist | AI/ML | Backend Dev"
 
 philosophy: >
-  "Security isn't a product, it's a process.
-   I build systems that think, defend, and scale."
+  "I don't just write code — I engineer systems
+   that think, defend, analyze, and scale."
 ```
 
 <br clear="both"/>
@@ -71,19 +76,23 @@ philosophy: >
 <table>
 <tr>
 <td>🔭 <b>Currently Working On</b></td>
-<td>AI-Powered Security Systems & Async Backend Architectures</td>
+<td>AI-Powered Systems & Data Analytics Projects</td>
+</tr>
+<tr>
+<td>🎓 <b>Currently Pursuing</b></td>
+<td>MCA @ SRM University, Sonepat (2024 – 2026)</td>
 </tr>
 <tr>
 <td>🌱 <b>Currently Learning</b></td>
-<td>Advanced System Design, Cloud Architecture & DevOps</td>
+<td>Advanced ML, Cloud Architecture & Generative AI</td>
 </tr>
 <tr>
-<td>🤝 <b>Looking to Collaborate</b></td>
-<td>Open-source cybersecurity tools & AI/ML projects</td>
+<td>🤝 <b>Open to Collaborate</b></td>
+<td>Data Science, AI/ML, & Backend Development projects</td>
 </tr>
 <tr>
 <td>💬 <b>Ask Me About</b></td>
-<td>Python, FastAPI, System Design, Cybersecurity, AI/ML</td>
+<td>Python, FastAPI, Data Analysis, ML, Computer Vision, System Design</td>
 </tr>
 <tr>
 <td>📫 <b>Reach Me At</b></td>
@@ -105,7 +114,18 @@ philosophy: >
 
 <div align="center">
 
-<!-- Row 1 -->
+<!-- Row 1: Flagship Projects -->
+<a href="https://github.com/sahil8017/Spectra-AI">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Spectra-AI&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sahil8017/Attentiveness-Tracker">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Attentiveness-Tracker&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
+</a>
+
+<br/><br/>
+
+<!-- Row 2: Security & Backend -->
 <a href="https://github.com/sahil8017/Psychological_Firewall_Project">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Psychological_Firewall_Project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
 </a>
@@ -116,27 +136,45 @@ philosophy: >
 
 <br/><br/>
 
-<!-- Row 2 -->
-<a href="https://github.com/sahil8017/Spectra-AI">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Spectra-AI&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
+<!-- Row 3: More Projects -->
 <a href="https://github.com/sahil8017/Crypto_Audit_Project">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Crypto_Audit_Project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
 </a>
-
-<br/><br/>
-
-<!-- Row 3 -->
+&nbsp;&nbsp;
 <a href="https://github.com/sahil8017/Sentinel_CLear_Core">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Sentinel_CLear_Core&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/sahil8017/Attentiveness-Tracker">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil8017&repo=Attentiveness-Tracker&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
 
 </div>
+
+<br/>
+
+<!-- ========================================== -->
+<!--         EXPERIENCE HIGHLIGHTS             -->
+<!-- ========================================== -->
+
+## 💼 &nbsp;Experience
+
+<table>
+<tr>
+<td><b>📊 Data Analytics — Quantium (Forage)</b></td>
+<td><code>Mar 2026</code></td>
+</tr>
+<tr>
+<td colspan="2">
+  Analyzed retail transaction data for customer segmentation & sales trends using Python. Conducted store trial analysis with statistical uplift measurement.
+</td>
+</tr>
+<tr>
+<td><b>📈 Data Visualization — Tata Consultancy Services (Forage)</b></td>
+<td><code>Jan 2026</code></td>
+</tr>
+<tr>
+<td colspan="2">
+  Created data visualizations for retail revenue trends using Tableau/Power BI concepts. Prepared insights for client leadership meetings.
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -151,6 +189,7 @@ philosophy: >
 ### 🔤 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -158,23 +197,41 @@ philosophy: >
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+</p>
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+</p>
+
+### ⚙️ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ### 🗄️ Databases & Messaging
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
@@ -187,17 +244,29 @@ philosophy: >
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🤖 AI & APIs
-<p>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-</p>
+</div>
 
+<br/>
+
+<!-- ========================================== -->
+<!--          CERTIFICATIONS                    -->
+<!-- ========================================== -->
+
+## 🏅 &nbsp;Certifications
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/IBM-Getting%20Started%20with%20Data-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank SQL" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank SQL" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Python-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Python" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Excel%20%26%20Sheets-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Excel" />
+</p>
 </div>
 
 <br/>
@@ -237,24 +306,10 @@ philosophy: >
 <br/>
 
 <!-- ========================================== -->
-<!--            TROPHIES                        -->
-<!-- ========================================== -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahil8017&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ========================================== -->
 <!--         CONNECT WITH ME                   -->
 <!-- ========================================== -->
 
-## 🤝 &nbsp;Connect With Me
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
@@ -262,7 +317,7 @@ philosophy: >
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sahil-gupta-8017" target="_blank">
+<a href="https://www.linkedin.com/in/guptasahil04" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -270,7 +325,7 @@ philosophy: >
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/sahil8017" target="_blank">
+<a href="https://leetcode.com/u/sahil8017" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
