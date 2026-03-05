@@ -285,11 +285,18 @@ Created data visualizations for retail revenue trends using Tableau/Power BI con
 
 <div align="center">
 <p>
-  <img src="https://img.shields.io/badge/IBM-Getting%20Started%20with%20Data-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank SQL" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank SQL" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank SQL Advanced" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank SQL Intermediate" />
+  <img src="https://img.shields.io/badge/IBM-Getting%20Started%20with%20Data-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/GeeksforGeeks-Python-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Python" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Excel%20%26%20Sheets-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Excel" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-SQL-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG SQL" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Analytics-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Data Analytics" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-MS%20Excel%20%26%20Sheets-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Excel" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Unstop-SRM%20Builds%206.0%20(Verge%20Fest)-FF6B00?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="Unstop" />
 </p>
 </div>
 
@@ -303,13 +310,19 @@ Created data visualizations for retail revenue trends using Tableau/Power BI con
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahil8017&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636" alt="GitHub Stats" />
+<a href="https://github.com/sahil8017">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil8017&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636" alt="GitHub Stats" />
+</a>
 &nbsp;
-<img width="49%" src="https://streak-stats.demolab.com/?user=sahil8017&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=238636&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak" />
+<a href="https://github.com/sahil8017">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil8017&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil8017&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/sahil8017">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=sahil8017&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=238636&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak" />
+</a>
 
 </div>
 
