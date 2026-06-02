@@ -22,7 +22,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/sahil8017?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-20+-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Repos" />
+  <img src="https://img.shields.io/badge/Repos-30+-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Repos" />
 </a>
 
 </div>
