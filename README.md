@@ -1,4 +1,4 @@
-# Hi, I'm Sahil Gupta 👋
+# Hi, I'm Sahil Gupta
 
 **Data Analyst · AI/ML & Backend Developer**
 MCA @ SRM University, Sonepat (2024–2026) · Karnal, Haryana, India
