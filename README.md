@@ -3,7 +3,7 @@
 **Data Analyst · AI/ML & Backend Developer**
 MCA @ SRM University, Sonepat (2024–2026) · Karnal, Haryana, India
 
-I turn raw data into decisions and models into production APIs. I work mostly with Python, SQL, FastAPI and PostgreSQL, across data analysis, machine learning, computer vision and backend systems.
+I turn raw data into decisions and models into production APIs. I work with Python, SQL, FastAPI and PostgreSQL, across data analysis, machine learning, computer vision and backend systems.
 
 **Open to work:** Data Analyst, AI/ML and Backend Developer roles. Reach me at [sahilgupta4oct@gmail.com](mailto:sahilgupta4oct@gmail.com).
 
@@ -13,14 +13,14 @@ I turn raw data into decisions and models into production APIs. I work mostly wi
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Spectra AI** | Summarizes YouTube videos and answers questions over uploaded PDF, DOCX and TXT files using RAG on a ChromaDB vector store. | React, FastAPI, Gemini API, PostgreSQL, Redis | [Repo](https://github.com/sahil8017/Spectra-AI) |
-| **Attentiveness Tracker** | Real-time webcam focus monitoring (awake / bored / sleepy). It filters blurry frames with OpenCV, smooths predictions over a 5-frame window and alerts after 3 inattentive frames. Includes JWT auth and an analytics dashboard. | FastAPI, PostgreSQL, Roboflow, OpenCV, Docker | [Repo](https://github.com/sahil8017/Attentiveness-Tracker) · [Demo](https://sahil8017-attentiveness-tracker.hf.space/) · [API docs](https://sahil8017-attentiveness-tracker.hf.space/docs) |
+| **Spectra AI** | YouTube video summaries and Q&A over uploaded PDF, DOCX and TXT files, via RAG on a ChromaDB vector store. | React, FastAPI, Gemini API, PostgreSQL, Redis | [Repo](https://github.com/sahil8017/Spectra-AI) |
+| **Attentiveness Tracker** | Real-time webcam focus monitoring (awake / bored / sleepy). Filters blurry frames with OpenCV, smooths predictions over a 5-frame window, alerts after 3 inattentive frames. JWT auth and an analytics dashboard included. | FastAPI, PostgreSQL, Roboflow, OpenCV, Docker | [Repo](https://github.com/sahil8017/Attentiveness-Tracker) · [Demo](https://sahil8017-attentiveness-tracker.hf.space/) · [API docs](https://sahil8017-attentiveness-tracker.hf.space/docs) |
 | **Psychological Firewall** | Gemini-powered fraud detector that reads the *reason* behind a transfer, blocks social-engineering scams, and logs every decision to an audit trail. | Python, Gemini API | [Repo](https://github.com/sahil8017/Psychological_Firewall_Project) |
 | **Transaction Buffer Engine** | Event-driven transaction pipeline: a FastAPI gateway queues requests in RabbitMQ (CloudAMQP) and a worker processes them with acknowledgements. In a chaos test, all 50 burst requests were accepted in under a second. | FastAPI, RabbitMQ, Python | [Repo](https://github.com/sahil8017/Transaction_Buffer_Engine) |
 | **Crypto Audit Project** | Tamper-evident ledger that SHA-256 hashes every transaction and flags any record edited directly in the database. | Python, MongoDB | [Repo](https://github.com/sahil8017/Crypto_Audit_Project) |
 | **Responsive College Web** | Mobile-first redesign of the Dyal Singh College, Karnal website. | HTML, CSS, JavaScript | [Repo](https://github.com/sahil8017/Responsive_College_Web) · [Demo](https://dsc-knl.vercel.app) |
 
-More in my [37 public repositories](https://github.com/sahil8017?tab=repositories).
+More in my [repositories](https://github.com/sahil8017?tab=repositories).
 
 ---
 
